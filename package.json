@@ -1,0 +1,29 @@
+{
+  "name": "pdf-book-reader",
+  "private": true,
+  "version": "1.0.0-rc.1",
+  "description": "A publication-aware PDF book reader starter with responsive spread reading",
+  "repository": {"type": "git", "url": "git+https://github.com/tingweihu/pdf-book-reader.git"},
+  "homepage": "https://pdf-book-reader-tau.vercel.app",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test",
+    "inspect:pdf": "node scripts/inspect-pdf.mjs",
+    "build": "tsc --noEmit && vite build"
+  },
+  "dependencies": {
+    "pdfjs-dist": "6.3.289",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "7.0.2",
+    "vite": "8.3.0"
+  }
+}

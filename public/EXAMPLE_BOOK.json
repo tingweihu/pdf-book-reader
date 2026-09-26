@@ -1,0 +1,47 @@
+{
+  "id": "three-moments",
+  "pdfFingerprint": "a2b47f00611c50183910f11f52ec9219",
+  "title": "Three Moments",
+  "subtitle": "A Small Publication About How a Day Tastes",
+  "cover": {"mode": "pdf-page", "page": 1},
+  "branding": {"logo": "/EXAMPLE_MARK.png", "alt": "Three Moments mark", "favicon": "/EXAMPLE_MARK.png"},
+  "publisher": {"name": "Three Moments", "logo": "/EXAMPLE_MARK.png"},
+  "project": {"repositoryUrl": "https://github.com/tingweihu/pdf-book-reader"},
+  "theme": {
+    "background": "#F7F4EE",
+    "surface": "#FFFFFF",
+    "text": "#171717",
+    "muted": "#5B5B5B",
+    "accent": "#F08A67"
+  },
+  "layoutOverrides": [
+    {"startPage": 3, "endPage": 14, "mode": "spread"}
+  ],
+  "chapters": [
+    {
+      "id": "rise", "title": "RISE", "subtitle": "Breakfast / Start Softly", "startPage": 3, "color": "#F08A67", "background": "/EXAMPLE_CHAPTER_01.png",
+      "items": [
+        {"title": "Citrus Yogurt Oats", "page": 4},
+        {"title": "Miso Butter Toast", "page": 5},
+        {"title": "Soft Egg Rice", "page": 6}
+      ]
+    },
+    {
+      "id": "gather", "title": "GATHER", "subtitle": "Lunch / Make Space", "startPage": 7, "color": "#2E8B74", "background": "/EXAMPLE_CHAPTER_02.png",
+      "items": [
+        {"title": "Crisp Herb Noodles", "page": 8},
+        {"title": "Tomato Bean Toast", "page": 9},
+        {"title": "Green Rice Bowl", "page": 10}
+      ]
+    },
+    {
+      "id": "slow", "title": "SLOW", "subtitle": "Dinner / End Well", "startPage": 11, "color": "#6857C7", "background": "/EXAMPLE_CHAPTER_03.png",
+      "items": [
+        {"title": "Roasted Onion Pasta", "page": 12},
+        {"title": "Ginger Tofu Broth", "page": 13},
+        {"title": "Dark Chocolate Pear", "page": 14}
+      ]
+    }
+  ],
+  "downloads": [{"label": "Demo PDF", "href": "/EXAMPLE_BOOK.pdf"}]
+}

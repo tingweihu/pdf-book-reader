@@ -1,0 +1,67 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 9 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 163 >>
+stream
+0.95 0.97 1 rg 0 0 612 792 re f
+0.15 0.25 0.35 rg
+BT /F1 32 Tf 72 690 Td (Field Guide) Tj ET
+BT /F1 16 Tf 72 640 Td (Portrait opening page) Tj ET
+72 100 468 2 re f
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 900 600] /Contents 6 0 R /Resources << /Font << /F1 9 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 184 >>
+stream
+0.98 0.96 0.91 rg 0 0 900 600 re f
+0.25 0.27 0.30 rg
+BT /F1 30 Tf 80 510 Td (Landscape single page) Tj ET
+BT /F1 16 Tf 80 455 Td (One canvas, no editorial split) Tj ET
+80 90 740 2 re f
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1200 600] /Contents 8 0 R /Resources << /Font << /F1 9 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 208 >>
+stream
+0.91 0.96 0.95 rg 0 0 600 600 re f
+0.95 0.92 0.98 rg 600 0 600 600 re f
+0.18 0.30 0.30 rg
+BT /F1 30 Tf 75 480 Td (Left panel) Tj ET
+BT /F1 30 Tf 675 480 Td (Right panel) Tj ET
+0.7 0.7 0.7 rg 599 50 2 500 re f
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000253 00000 n 
+0000000467 00000 n 
+0000000593 00000 n 
+0000000828 00000 n 
+0000000955 00000 n 
+0000001214 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+1284
+%%EOF
