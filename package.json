@@ -1,7 +1,7 @@
 {
   "name": "pdf-book-reader",
   "private": true,
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0",
   "description": "A publication-aware PDF book reader starter with responsive spread reading",
   "repository": {"type": "git", "url": "git+https://github.com/tingweihu/pdf-book-reader.git"},
   "homepage": "https://pdf-book-reader-tau.vercel.app",

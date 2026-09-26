@@ -1,19 +1,19 @@
-# First public release checklist
+# v1.0.0 release status
 
 ## Technical
 
-- [ ] Run `npm ci`, `npm test`, `npm run typecheck`, and `npm run build`.
-- [ ] Smoke-test the configured demo and zero-config PDF replacement.
-- [ ] Scan publishable files for private names, paths, URLs, and generated files.
+- [x] `npm ci` completed.
+- [x] Tests completed.
+- [x] Typecheck completed.
+- [x] Production build completed.
+- [x] Configured demo and zero-config smoke tests completed.
+- [x] Public-file sanitization completed.
 
-## Owner decisions
+## Publication
 
-- [x] Choose MIT for the source code.
-- [x] Confirm CC BY 4.0 for the demo PDF, food imagery, metadata content, logo, and favicons.
-
-## Publication — after owner decisions
-
-- [x] Add `LICENSE` with the selected code-license text.
-- [ ] Make the initial Git commit.
-- [ ] Create the GitHub repository and push `main`.
-- [ ] Verify the GitHub README and demo assets display correctly.
+- [x] Initial commit created.
+- [x] Public GitHub repository created.
+- [x] `main` pushed to `origin`.
+- [x] GitHub README and demo assets verified.
+- [x] Vercel live demo deployed.
+- [x] v1.0.0 GitHub Release published.
